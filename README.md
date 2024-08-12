@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarbojitrana
+- 👋 Hi, I’m Sarbojit Rana.
 - 👀 I’m interested in competitive programming and machine learning
 - 🌱 I’m currently learning data structures and algorithm
 - 💞️ I want to publish research papers on artificial intelligence
