@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sarbojit Rana.
 - 👀 I’m interested in competitive programming and machine learning
-- 🌱 I’m currently learning data structures and algorithm
+- 🌱 I’m currently learning data structures and algorithms
 - 💞️ I want to publish research papers on artificial intelligence
-- 📫 How to reach me? here is my linkedin : https://www.linkedin.com/in/sarbojit-rana/
+- 📫 How to reach me? look at the bottom-left of the window :)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: chickens can fly
 
