@@ -5,6 +5,7 @@
 - 📫 How to reach me? look at the bottom-left of the window :)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: chickens can fly
+- 😁 https://linktr.ee/sarbojit_rana
 
 <!---
 sarbojitrana/sarbojitrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
