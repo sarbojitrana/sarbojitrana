@@ -4,8 +4,8 @@ Edit this file (not generate_svg.py) to change what the card says.
 """
 
 USERNAME = "sarbojitrana"
-PROMPT_USER = "sarbojit"
-PROMPT_HOST = "nita"
+PROMPT_USER = "lord_beerus"
+PROMPT_HOST = "universe_seven"
 
 FIELDS = [
     ("OS", "Arch Linux / Windows 11"),
@@ -14,12 +14,12 @@ FIELDS = [
     ("Shell", "zsh + tmux"),
     (None, None),  # spacer
     ("Programming", "Go, C++, Python, TypeScript, JS"),
-    ("Markup", "SQL, HTML, CSS, YAML, JSON"),
+    ("Markup", "SQL, YAML, JSON"),
     ("Spoken", "English, Hindi"),
     (None, None),
-    ("Building", "Backend systems, CP, OSS"),
+    ("Building", "Backend systems, CP"),
     ("Daily Driver", "Linux, breaking it on purpose"),
-    ("Playing", "Titanfall 2, MW, Black Ops, Mafia 2"),
+    ("Playing", "Titanfall 2, MW(OG), Black Ops, Mafia 2"),
     ("Watching", "Impractical Jokers, on loop"),
 ]
 
@@ -27,6 +27,7 @@ CONTACT = [
     ("Email", "sarbojitrana47c@gmail.com"),
     ("LinkedIn", "sarbojit-rana"),
     ("Discord", "sarbojit_rana"),
+    ("Twitter", "sarbojitrana"),
 ]
 
 QUOTE = "compiling by day, wall-running by night"
