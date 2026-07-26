@@ -21,16 +21,16 @@ REPO_ROOT = os.path.dirname(os.path.dirname(HERE))
 ASSETS_DIR = os.path.join(REPO_ROOT, "assets")
 
 FONT_FAMILY = "'JetBrains Mono','Fira Code',Consolas,Menlo,monospace"
-FONT_SIZE = 17
-CHAR_W = 10.5
-LINE_H = 23
-PAD = 26
-GAP = 40
+FONT_SIZE = 19
+CHAR_W = 11.4
+LINE_H = 26
+PAD = 22
+GAP = 30
 
-ART_LINE_H = 17
+ART_LINE_H = 19
 ART_CHAR_W = round(ART_LINE_H * 0.52, 2)
 
-LABEL_DOT_COLS = 24
+LABEL_DOT_COLS = 15
 VALUE_COL = LABEL_DOT_COLS + 2
 
 THEMES = {
@@ -77,10 +77,10 @@ def mono_run(x, y, segments, theme_color_default):
     return "".join(parts)
 
 
-def render_art(grid, x0, y0, theme):
+def render_art(grid, x0, y0, theme, art_line_h, art_char_w):
     out = []
     for row_i, row in enumerate(grid):
-        y = y0 + row_i * ART_LINE_H + ART_LINE_H * 0.8
+        y = y0 + row_i * art_line_h + art_line_h * 0.8
         segments = []
         run_text = ""
         run_color = None
@@ -94,15 +94,15 @@ def render_art(grid, x0, y0, theme):
             run_text += char
         if run_text:
             segments.append((run_text, run_color))
-        out.append(mono_run_art(x0, y, segments))
+        out.append(mono_run_art(x0, y, segments, art_line_h, art_char_w))
     return "".join(out)
 
 
-def mono_run_art(x, y, segments):
-    parts = [f'<text x="{x:.2f}" y="{y:.2f}" font-family="{FONT_FAMILY}" font-size="{ART_LINE_H}" xml:space="preserve">']
+def mono_run_art(x, y, segments, art_line_h, art_char_w):
+    parts = [f'<text x="{x:.2f}" y="{y:.2f}" font-family="{FONT_FAMILY}" font-size="{art_line_h:.2f}" xml:space="preserve">']
     cursor = x
     for text, color in segments:
-        width = len(text) * ART_CHAR_W
+        width = len(text) * art_char_w
         parts.append(
             f'<tspan x="{cursor:.2f}" y="{y:.2f}" fill="{color}" '
             f'textLength="{width:.2f}" lengthAdjust="spacingAndGlyphs">{esc(text)}</tspan>'
@@ -110,6 +110,23 @@ def mono_run_art(x, y, segments):
         cursor += width
     parts.append("</text>")
     return "".join(parts)
+
+
+def measure_text_height(art_rows_unused=None) -> float:
+    """Mirrors the y-cursor advances in build_svg without needing real data,
+    so the art column's line height can be solved to exactly fill it."""
+    y = PAD + LINE_H * 0.8
+    y += LINE_H * 1.4  # prompt line
+    for label, _ in config.FIELDS:
+        y += LINE_H * 0.6 if label is None else LINE_H
+    y += LINE_H * 0.5 + LINE_H * 1.4  # Contact header
+    y += LINE_H * len(config.CONTACT)
+    y += LINE_H * 0.5 + LINE_H * 1.4  # GitHub Stats header
+    y += LINE_H  # Repos
+    y += LINE_H  # Commits
+    y += LINE_H * 1.8  # Lines of Code -> swatches baseline
+    y += LINE_H * 1.2  # after swatches
+    return y
 
 
 def field_line(x, y, label, value, theme):
@@ -150,10 +167,10 @@ def compute_total_chars(data: dict) -> int:
         track(value)
 
     s, l = data["stats"], data["loc"]
-    repos_val = f"{s['repos']}" + (f"  {{Contributed: {s['contributed']}}}" if s["contributed"] is not None else "")
-    track(repos_val + f"   |   Stars: {s['stars']:,}")
-    commits_val = f"{s['commits']:,}" if s["commits"] is not None else "pending PAT setup"
-    track(commits_val + f"   |   Followers: {s['followers']:,}")
+    repos_val = f"{s['repos']}" + (f" {{Contrib: {s['contributed']}}}" if s["contributed"] is not None else "")
+    track(repos_val + f" | Stars: {s['stars']:,}")
+    commits_val = f"{s['commits']:,}" if s["commits"] is not None else "pending PAT"
+    track(commits_val + f" | Followers: {s['followers']:,}")
     track(f"{l['net']:,} ({l['additions']:,}++, {l['deletions']:,}--)")
 
     return max_chars + 2
@@ -164,8 +181,9 @@ def build_svg(theme_name: str, data: dict) -> str:
     art_grid = data["art_grid"]
     art_rows = len(art_grid)
     art_cols = len(art_grid[0]) if art_rows else 0
+    art_line_h, art_char_w = ART_LINE_H, ART_CHAR_W
 
-    right_x = PAD + art_cols * ART_CHAR_W + GAP
+    right_x = PAD + art_cols * art_char_w + GAP
     total_chars = compute_total_chars(data)
 
     lines = []
@@ -198,11 +216,11 @@ def build_svg(theme_name: str, data: dict) -> str:
 
     s = data["stats"]
     l = data["loc"]
-    repos_val = f"{s['repos']}" + (f"  {{Contributed: {s['contributed']}}}" if s["contributed"] is not None else "")
-    lines.append(field_line(right_x, y, "Repos", repos_val + f"   |   Stars: {s['stars']:,}", theme))
+    repos_val = f"{s['repos']}" + (f" {{Contrib: {s['contributed']}}}" if s["contributed"] is not None else "")
+    lines.append(field_line(right_x, y, "Repos", repos_val + f" | Stars: {s['stars']:,}", theme))
     y += LINE_H
-    commits_val = f"{s['commits']:,}" if s["commits"] is not None else "pending PAT setup"
-    lines.append(field_line(right_x, y, "Commits", commits_val + f"   |   Followers: {s['followers']:,}", theme))
+    commits_val = f"{s['commits']:,}" if s["commits"] is not None else "pending PAT"
+    lines.append(field_line(right_x, y, "Commits", commits_val + f" | Followers: {s['followers']:,}", theme))
     y += LINE_H
 
     loc_label = "Lines of Code"
@@ -228,11 +246,11 @@ def build_svg(theme_name: str, data: dict) -> str:
     lines.append("".join(sw))
     y += LINE_H * 1.2
 
-    content_bottom = max(y, PAD + art_rows * ART_LINE_H + LINE_H)
+    content_bottom = max(y, PAD + art_rows * art_line_h + LINE_H)
     width = right_x + total_chars * CHAR_W + PAD
     height = content_bottom + PAD * 0.6
 
-    art_svg = render_art(art_grid, PAD, PAD, theme)
+    art_svg = render_art(art_grid, PAD, PAD, theme, art_line_h, art_char_w)
 
     svg = f"""<svg width="{width:.0f}" height="{height:.0f}" viewBox="0 0 {width:.0f} {height:.0f}" xmlns="http://www.w3.org/2000/svg">
 <rect x="0.5" y="0.5" width="{width - 1:.0f}" height="{height - 1:.0f}" rx="10" fill="{theme['bg']}" stroke="{theme['border']}"/>
@@ -242,10 +260,18 @@ def build_svg(theme_name: str, data: dict) -> str:
     return svg
 
 
+def art_rows_to_fill_card() -> int:
+    text_height = measure_text_height()
+    return max(1, round((text_height - PAD - LINE_H) / ART_LINE_H))
+
+
 def main():
     # Re-pulled from the live GitHub avatar every run, so the art always
-    # tracks whatever profile picture is currently set.
-    art_grid = ascii_art.build_grid(ascii_art.fetch_avatar())
+    # tracks whatever profile picture is currently set. Rows are chosen so
+    # the art column's height exactly matches the text column's -- no gap.
+    art_grid = ascii_art.build_grid(
+        ascii_art.fetch_avatar(), rows=art_rows_to_fill_card()
+    )
 
     data = {
         "art_grid": art_grid,

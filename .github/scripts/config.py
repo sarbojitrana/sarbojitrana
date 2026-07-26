@@ -9,18 +9,18 @@ PROMPT_HOST = "nita"
 
 FIELDS = [
     ("OS", "Arch Linux / Windows 11"),
-    ("Host", "National Institute of Technology, Agartala"),
+    ("Host", "NIT Agartala"),
     ("IDE", "Neovim, GoLand, VS Code"),
     ("Shell", "zsh + tmux"),
     (None, None),  # spacer
-    ("Languages.Programming", "Go, C++, Python, TypeScript, JavaScript"),
-    ("Languages.Computer", "SQL, HTML, CSS, YAML, JSON"),
-    ("Languages.Real", "English, Hindi"),
+    ("Programming", "Go, C++, Python, TypeScript, JS"),
+    ("Markup", "SQL, HTML, CSS, YAML, JSON"),
+    ("Spoken", "English, Hindi"),
     (None, None),
-    ("Hobbies.Software", "Competitive programming, backend systems, OSS"),
-    ("Hobbies.Hardware", "Daily-driving Linux, breaking my own setup"),
-    ("Hobbies.Games", "Titanfall 2, MW, Black Ops, Far Cry 3, Mafia 2"),
-    ("Hobbies.Shows", "Impractical Jokers (on permanent rewatch)"),
+    ("Building", "Backend systems, CP, OSS"),
+    ("Daily Driver", "Linux, breaking it on purpose"),
+    ("Playing", "Titanfall 2, MW, Black Ops, Mafia 2"),
+    ("Watching", "Impractical Jokers, on loop"),
 ]
 
 CONTACT = [

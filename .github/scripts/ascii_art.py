@@ -17,7 +17,7 @@ OUT_PATH = os.path.join(os.path.dirname(__file__), "ascii_art.json")
 # show through), the rest ramp up in "ink" density.
 RAMP = " ..::--==++**##%%@@"
 
-COLS = 60
+COLS = 44
 CELL_ASPECT = 0.52  # monospace char width / height, used to pick ROWS
 GAMMA = 0.8  # <1 spreads midtones out so more cells earn a character
 
@@ -34,8 +34,12 @@ def fetch_avatar() -> Image.Image:
     return Image.open(io.BytesIO(resp.content)).convert("RGB")
 
 
-def build_grid(img: Image.Image, cols: int = COLS):
-    rows = max(1, round(cols * CELL_ASPECT))
+def build_grid(img: Image.Image, cols: int = COLS, rows: int | None = None):
+    # rows defaults to what keeps the sampled grid roughly square-looking;
+    # callers that need the art to fill a specific card height pass rows
+    # explicitly, which stretches the sampling instead (a minor, acceptable
+    # distortion for abstract colored ascii art).
+    rows = max(1, rows if rows is not None else round(cols * CELL_ASPECT))
     img = ImageOps.autocontrast(img, cutoff=1)
     small = img.resize((cols, rows), Image.LANCZOS)
     small = ImageEnhance.Color(small).enhance(1.5)
