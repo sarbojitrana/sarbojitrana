@@ -14,11 +14,15 @@ import tempfile
 import requests
 
 USERNAME = "sarbojitrana"
+# Real git-commit emails this account has used, in addition to the GitHub
+# username/noreply address — commits authored with these count too.
+KNOWN_EMAILS = ["sarbojitrana47c@gmail.com"]
 GH_TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("ACCESS_TOKEN")
 CACHE_PATH = os.path.join(os.path.dirname(__file__), "cache", "loc_cache.json")
 
+_EMAIL_ALTS = "|".join(re.escape(e) for e in KNOWN_EMAILS)
 AUTHOR_PATTERN = re.compile(
-    rf"^({re.escape(USERNAME)}|.*\+{re.escape(USERNAME)}@users\.noreply\.github\.com)$",
+    rf"^({re.escape(USERNAME)}|.*\+{re.escape(USERNAME)}@users\.noreply\.github\.com|{_EMAIL_ALTS})$",
     re.IGNORECASE,
 )
 

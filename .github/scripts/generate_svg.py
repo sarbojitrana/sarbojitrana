@@ -21,13 +21,13 @@ REPO_ROOT = os.path.dirname(os.path.dirname(HERE))
 ASSETS_DIR = os.path.join(REPO_ROOT, "assets")
 
 FONT_FAMILY = "'JetBrains Mono','Fira Code',Consolas,Menlo,monospace"
-FONT_SIZE = 14
-CHAR_W = 8.4
-LINE_H = 19
-PAD = 22
-GAP = 34
+FONT_SIZE = 17
+CHAR_W = 10.5
+LINE_H = 23
+PAD = 26
+GAP = 40
 
-ART_LINE_H = 14
+ART_LINE_H = 17
 ART_CHAR_W = round(ART_LINE_H * 0.52, 2)
 
 LABEL_DOT_COLS = 24
@@ -35,19 +35,19 @@ VALUE_COL = LABEL_DOT_COLS + 2
 
 THEMES = {
     "dark": {
-        "bg": "#0d1117",
-        "border": "#30363d",
-        "user": "#7ee787",
-        "label": "#79c0ff",
-        "dots": "#484f58",
-        "value": "#c9d1d9",
-        "heading": "#ffa657",
-        "muted": "#8b949e",
-        "add": "#3fb950",
-        "del": "#f85149",
+        "bg": "#1c2128",
+        "border": "#444c56",
+        "user": "#8ddb8c",
+        "label": "#8fc7ff",
+        "dots": "#636e7b",
+        "value": "#e2e8ee",
+        "heading": "#ffb771",
+        "muted": "#9ea7b3",
+        "add": "#56d364",
+        "del": "#ff7b72",
         "swatches": [
-            "#0d1117", "#f85149", "#3fb950", "#d29922",
-            "#58a6ff", "#bc8cff", "#39c5cf", "#c9d1d9",
+            "#1c2128", "#ff7b72", "#56d364", "#e3b341",
+            "#79c0ff", "#d2a8ff", "#56d4dd", "#e2e8ee",
         ],
     },
 }

@@ -40,6 +40,7 @@ def build_grid(img: Image.Image, cols: int = COLS):
     small = img.resize((cols, rows), Image.LANCZOS)
     small = ImageEnhance.Color(small).enhance(1.5)
     small = ImageEnhance.Contrast(small).enhance(1.2)
+    small = ImageEnhance.Brightness(small).enhance(1.35)
     small = small.filter(ImageFilter.SMOOTH)
 
     pixels = small.load()
@@ -58,12 +59,11 @@ def build_grid(img: Image.Image, cols: int = COLS):
             if char == " ":
                 row.append(None)
             else:
-                # push saturation/value up a touch so cells read as vivid
-                # against the card's dark background
-                boosted = ImageEnhance.Color(
-                    Image.new("RGB", (1, 1), (r, g, b))
-                ).enhance(1.0)
-                br, bg, bb = boosted.getpixel((0, 0))
+                # blend each cell's color toward white so it reads as bright
+                # against the card's dark background instead of murky
+                br = round(r + (255 - r) * 0.22)
+                bg = round(g + (255 - g) * 0.22)
+                bb = round(b + (255 - b) * 0.22)
                 row.append({"c": char, "hex": "#%02x%02x%02x" % (br, bg, bb)})
         grid.append(row)
     return grid

@@ -8,7 +8,7 @@ PROMPT_USER = "sarbojit"
 PROMPT_HOST = "nita"
 
 FIELDS = [
-    ("OS", "Arch Linux (btw) / Windows 11"),
+    ("OS", "Arch Linux / Windows 11"),
     ("Host", "National Institute of Technology, Agartala"),
     ("IDE", "Neovim, GoLand, VS Code"),
     ("Shell", "zsh + tmux"),
