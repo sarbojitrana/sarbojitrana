@@ -27,9 +27,9 @@ FIELDS = [
 CONTACT = [
     ("Email.Personal", "sarbojitrana47c@gmail.com"),
     ("Email.Work", "SARBOJIT_23UEC038@ug.nita.ac.in"),
-    ("LinkedIn", "sarbojit-rana"),
-    ("Discord", "sarbojit_rana"),
-    ("Twitter", "sarbojitrana"),
+    ("Social.LinkedIn", "sarbojit-rana"),
+    ("Social.Discord", "sarbojit_rana"),
+    ("Social.Twitter", "sarbojitrana"),
 ]
 
 QUOTE = "compiling by day, wall-running by night"
