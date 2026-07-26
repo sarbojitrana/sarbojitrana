@@ -1,4 +1,34 @@
 {
+  "Jguer/yay": {
+    "additions": 0,
+    "deletions": 0,
+    "sha": "4a5a0f3d3366a162673b126c499ecf4e336a3aeb"
+  },
+  "brave/brave-browser": {
+    "additions": 0,
+    "deletions": 0,
+    "sha": "40da18b426b7f727ce125a9911ffc2501dcc8858"
+  },
+  "firstcontributions/first-contributions": {
+    "additions": 0,
+    "deletions": 0,
+    "sha": "5a2a0c4bb08e06f2753d87ee3324b82f299a2710"
+  },
+  "hiero-ledger/solo": {
+    "additions": 0,
+    "deletions": 0,
+    "sha": "f53bd3968d3c94ea63e9defb21f871ccadd4f297"
+  },
+  "keploy/writers-program": {
+    "additions": 0,
+    "deletions": 0,
+    "sha": "20413e97d8f1b9943cdcd69432a6377bc0841794"
+  },
+  "obra/superpowers": {
+    "additions": 0,
+    "deletions": 0,
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9"
+  },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 0,
     "deletions": 0,
@@ -77,7 +107,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 13,
     "deletions": 1,
-    "sha": "8be3614777ebef8f78793c20fa8d772ff0460286"
+    "sha": "3ab6b5b03cd1c6a319a597a7c831612f7898cc42"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 154,
@@ -108,5 +138,10 @@
     "additions": 3106,
     "deletions": 222,
     "sha": "416d7a4e2e1cb1577c72fc01ba52fe7e69dbe88a"
+  },
+  "tusharg2210/asset-flow": {
+    "additions": 10710,
+    "deletions": 122,
+    "sha": "13f53b90b2537268523a31cb914ba7c86364daa8"
   }
 }
