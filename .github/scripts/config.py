@@ -13,8 +13,8 @@ FIELDS = [
     ("IDE", "Neovim, GoLand, VS Code"),
     ("Shell", "zsh + tmux"),
     (None, None),  # spacer
-    ("Languages.Programming", "Go, C++, Python, TypeScript, JS, SQL")
-    ("Languages.Computer", "YAML, JSON")
+    ("Languages.Programming", "Go, C++, Python, TypeScript, JS")
+    ("Languages.Data", "YAML, JSON, SQL")
     ("Languages.Real", "English, Hindi")
     (None, None),
     ("Building",   "Backend systems, Competitive Programming"),
