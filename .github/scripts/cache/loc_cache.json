@@ -40,9 +40,9 @@
     "sha": "5caba0767b30e2926dea9b276c98517ba563a847"
   },
   "sarbojitrana/CodeMetrics_Frontend": {
-    "additions": 7392,
-    "deletions": 403,
-    "sha": "bbb958f5dcd37ce40826d82882c03eb97c1655bc"
+    "additions": 7578,
+    "deletions": 510,
+    "sha": "71a272da04459e9af2622d26d0c3866a705d706d"
   },
   "sarbojitrana/NanoLink": {
     "additions": 146317,
@@ -105,9 +105,9 @@
     "sha": "680933ef1f9b486eec12efda40207de1a0bccee6"
   },
   "sarbojitrana/sarbojitrana": {
-    "additions": 282,
-    "deletions": 137,
-    "sha": "1a13aed8c9aaac049cf9fc0ac405c587b7243f5a"
+    "additions": 303,
+    "deletions": 156,
+    "sha": "15e2ea72dd83a679975dffddadb828786372a8ec"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,

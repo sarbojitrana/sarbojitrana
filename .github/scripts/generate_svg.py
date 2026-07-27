@@ -21,16 +21,16 @@ REPO_ROOT = os.path.dirname(os.path.dirname(HERE))
 ASSETS_DIR = os.path.join(REPO_ROOT, "assets")
 
 FONT_FAMILY = "'JetBrains Mono','Fira Code',Consolas,Menlo,monospace"
-FONT_SIZE = 19
-CHAR_W = 11.4
-LINE_H = 26
-PAD = 22
-GAP = 30
+FONT_SIZE = 16
+CHAR_W = 9.9
+LINE_H = 21
+PAD = 20
+GAP = 26
 
-ART_LINE_H = 19
+ART_LINE_H = 16
 ART_CHAR_W = round(ART_LINE_H * 0.52, 2)
 
-LABEL_DOT_COLS = 15
+LABEL_DOT_COLS = 26
 VALUE_COL = LABEL_DOT_COLS + 2
 
 THEMES = {

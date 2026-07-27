@@ -13,9 +13,9 @@ FIELDS = [
     ("IDE", "Neovim, GoLand, VS Code"),
     ("Shell", "zsh + tmux"),
     (None, None),  # spacer
-    ("Languages.Programming", "Go, C++, Python, TypeScript, JS")
-    ("Languages.Data", "YAML, JSON, SQL")
-    ("Languages.Real", "English, Hindi")
+    ("Languages.Programming", "Go, C++, Python, TypeScript, JS"),
+    ("Languages.Data", "YAML, JSON, SQL"),
+    ("Languages.Real", "English, Hindi"),
     (None, None),
     ("Building",   "Backend systems, Competitive Programming"),
     ("Currently Building",  "GitMetrics CLI, Nexus"),

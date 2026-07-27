@@ -17,7 +17,7 @@ OUT_PATH = os.path.join(os.path.dirname(__file__), "ascii_art.json")
 # show through), the rest ramp up in "ink" density.
 RAMP = " ..::--==++**##%%@@"
 
-COLS = 44
+COLS = 36
 CELL_ASPECT = 0.52  # monospace char width / height, used to pick ROWS
 GAMMA = 0.8  # <1 spreads midtones out so more cells earn a character
 
