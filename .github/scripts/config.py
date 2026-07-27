@@ -20,7 +20,7 @@ FIELDS = [
     ("Building",   "Backend systems, Competitive Programming"),
     ("Currently Building",  "GitMetrics CLI, Nexus"),
     ("Daily Driver", "Linux, breaking it on purpose"),
-    ("Hobbies.Games", "Titanfall 2, MW(OG), Black Ops, Mafia 2"),
+    ("Hobbies.Games", "Titanfall 2, COD MW(OG), Black Ops, TLOU"),
     ("Hobbies.Shows", "Impractical Jokers, on loop"),
 ]
 
