@@ -7,22 +7,22 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "ec7256e3dae9d7ba95fc63855c37690fc7a426fe"
+    "sha": "25f856e779e89a2f51759f3be7368ac54732263b"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "54476581ea5435d90a9a88fc16be9a6d3fa6f7b2"
+    "sha": "67f7bb9eb4cd59dc987222e77d0a4a5f61d18705"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
     "deletions": 0,
-    "sha": "3885954363740de01c74d9f48667303472592f2f"
+    "sha": "28953e1c99b0317f0b5706511636d049c9e3a8d7"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "a6669187df039d2a8ae9af276f2b040ef8aa6f71"
+    "sha": "5b313658a7901847741e56ca12f8d98747a79f60"
   },
   "hiero-ledger/solo": {
     "additions": 0,
@@ -122,7 +122,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "7d57ff8936ae0be7e07650ba7d1c08634f92de59"
+    "sha": "8ef1090ada314f8d8d90843d7972805d51e570ff"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
