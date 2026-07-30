@@ -7,27 +7,27 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "2bd1442d33f8c6998df1917119438b15aee017cc"
+    "sha": "5bc37d29336e9ca52a1ea6df43901349e96f5994"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "7e17eb0ba82454956ee107cef3350340a28d87be"
+    "sha": "6734170a21255d6dc931f2db87d5f41e96dbc5d2"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
     "deletions": 0,
-    "sha": "75e38fc07dd595742a4f62bb0e29a5c8edc5e05e"
+    "sha": "415b712f93a52cdb294689017618bcc126d6779b"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "2228fe25c9df377c7996f55978d0b5dff570d687"
+    "sha": "19593e0e26becd0d6e219a98634020192fa3f1a6"
   },
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "046d1da424e8e12559a033fca56582344fc5987a"
+    "sha": "ce9c7e474928b94393aa10dbf6e84a6a42feba67"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -37,7 +37,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "cdbc92639c51b64243cf7a0c8f622c720a312029"
+    "sha": "5ef9e70d95d912d4bbe7b3f525b507e3e42ce3fd"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -122,7 +122,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "87e40fab66e4c7d0b52b4721fa3e2619a5d3b41f"
+    "sha": "0adfd487c980cde366327f683c877d9e10714de6"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
