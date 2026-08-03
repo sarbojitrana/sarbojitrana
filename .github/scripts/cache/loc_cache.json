@@ -12,12 +12,12 @@
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "c916a6dcd475f438b2cb5c76a8cb95193221e633"
+    "sha": "8f8c32aa84ed8c8251cfdb9e5cbaf322399c3dd0"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
     "deletions": 0,
-    "sha": "fbef016bfb5120517a5e5803e5d08c46e89bfcd3"
+    "sha": "0a026ae9ee34534650c87ef2d69a329c22bf3c0b"
   },
   "google-gemini/gemini-cli": {
     "additions": 0,
@@ -152,7 +152,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "116a715a9adba777786509ecc42a9a83d9a5eb07"
+    "sha": "f244f2a8492431f1fd4fbee4d656d41ba371d2c6"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
