@@ -7,17 +7,17 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "0dec416f6b72327f0160dddf8ffcec3345952b18"
+    "sha": "100f5e1f76e5b4445ac7fc6e91a8f4260a9b924e"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "8f8c32aa84ed8c8251cfdb9e5cbaf322399c3dd0"
+    "sha": "974e6c40cf6a92c70e7b393efbde282532bd0712"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
     "deletions": 0,
-    "sha": "0a026ae9ee34534650c87ef2d69a329c22bf3c0b"
+    "sha": "cf4fb2603cc89d607377b74c1b744154f6e191ce"
   },
   "google-gemini/gemini-cli": {
     "additions": 0,
@@ -27,12 +27,12 @@
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "b3648173d5e4a346bd69019af3c2e56bf9daa670"
+    "sha": "21ba102381a8d69f05fa42b82bb402bb8dcff38a"
   },
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "d6c765971fb4707c0f351e12ad6e2056ad5a73de"
+    "sha": "519e8eba34ca2e17484de587b3b2c136e4c90374"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -42,7 +42,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "c17064f72c97e6e7ac4ee2c9ad02f2239faa10f9"
+    "sha": "acf883c825a6f59be1f6301c0f84c6f8f5df8ddc"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -52,7 +52,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "630b101fbec8af5ecdb0a17d7886bb6b90fd8bba"
+    "sha": "f709fc1b6ca158fb2b40e60a3deceec7fe56f538"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -152,7 +152,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "f244f2a8492431f1fd4fbee4d656d41ba371d2c6"
+    "sha": "f21b78df8499342e39afcd10597005ad43ce4364"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
