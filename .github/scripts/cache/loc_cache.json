@@ -7,32 +7,32 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "100f5e1f76e5b4445ac7fc6e91a8f4260a9b924e"
+    "sha": "f84dcde3670bc91dc34b08c1120e65e4988f1242"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "974e6c40cf6a92c70e7b393efbde282532bd0712"
+    "sha": "cc146092c67b1d152bbcabc6543819570efe8bfe"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
     "deletions": 0,
-    "sha": "cf4fb2603cc89d607377b74c1b744154f6e191ce"
+    "sha": "f7c707b0c6473e7f50f9c41450b209ad3819ad7a"
   },
   "google-gemini/gemini-cli": {
     "additions": 0,
     "deletions": 0,
-    "sha": "f47d6c6f7a1308d81f9f57acf7d279f0928c5249"
+    "sha": "ac42fb0a24fe7349e9968e2359ef5232f1cb6e72"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "21ba102381a8d69f05fa42b82bb402bb8dcff38a"
+    "sha": "a20530df7c32a7752a5e8cd0c765f812651eab73"
   },
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "519e8eba34ca2e17484de587b3b2c136e4c90374"
+    "sha": "6397950a3475ecbf5218909cfd97c03daa317750"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -42,7 +42,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "acf883c825a6f59be1f6301c0f84c6f8f5df8ddc"
+    "sha": "ae0bec4d6741cafea7eca7beafbac1929826e20b"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -152,7 +152,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "f21b78df8499342e39afcd10597005ad43ce4364"
+    "sha": "d313cf52f40973b98414c317a1c3baf377302f56"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
