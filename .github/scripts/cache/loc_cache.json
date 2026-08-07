@@ -12,27 +12,27 @@
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "66f8d375674c5a9dd567d503e9d8b2630f7934b2"
+    "sha": "2d0a4af3fa64fa61ff14e74e5cc88a4413b2e005"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
     "deletions": 0,
-    "sha": "8735d07897730d936a99c17de946fd1a8d1dd635"
+    "sha": "4ceaa1766aabc7d4f8fe8cff24a02543e0e13f08"
   },
   "google-gemini/gemini-cli": {
     "additions": 0,
     "deletions": 0,
-    "sha": "d5c9a97dc03758649da8a7b9b739c4c73b15910e"
+    "sha": "2139b121bc028e0b4c96b97385555b19c2dd629d"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "97ea31371479bacc187f3745316e1c03823bb873"
+    "sha": "4bb3ededcbf81f4214b1b496852e382b9d2f9018"
   },
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "cf2d57a1b2899f6f055076bf3fcc0364ca3f21ce"
+    "sha": "47e23259c5c4ca923f02485eed7ff0d54ac1752c"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -42,7 +42,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "5b273440bf1b2f735429239960524e9e0854db43"
+    "sha": "fbf8402d4bce027823d7788c8f48401d839f8b31"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -52,7 +52,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "20a49fa20e409b175ec33fef48853f480503722d"
+    "sha": "9105bb56d494d5464f8fbfadb0bc528e7d6d3174"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -152,7 +152,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "5bebba060a7084642b836a748ce42342e489f77f"
+    "sha": "2fc18a011e08ea62e4fbb41ba9989c07690b5d11"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
