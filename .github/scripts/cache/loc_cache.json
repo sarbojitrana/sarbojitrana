@@ -7,7 +7,7 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "5d1e08464b2e5785cb21c1eef4604f904788fbb5"
+    "sha": "ea174df83bd660b474b2acf5a03aaef31ecc2f01"
   },
   "brave/brave-browser": {
     "additions": 0,
@@ -22,7 +22,7 @@
   "firstcontributions/first-contributions": {
     "additions": 0,
     "deletions": 0,
-    "sha": "9a011006931d8981738b3829fc18d03c4a8d64c6"
+    "sha": "5bb0a7c29ce791c33ed58683c5b3d39406de5e82"
   },
   "google-gemini/gemini-cli": {
     "additions": 0,
@@ -130,9 +130,9 @@
     "sha": "b5870da7b51850ee76770afc6bd3b71a2d5e7334"
   },
   "sarbojitrana/nexus": {
-    "additions": 22882,
-    "deletions": 4225,
-    "sha": "b9ab56478e6338e693d43751dd8a0b0cef2666c2"
+    "additions": 23578,
+    "deletions": 4379,
+    "sha": "b5663ec4b2aeb3fda6befc22fa24518817ea0560"
   },
   "sarbojitrana/operating-system": {
     "additions": 8,
@@ -157,7 +157,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "d37e6ac272419b2eb0cb018bea04a18367289845"
+    "sha": "ef1cd94c6dddbd7601db5f356b7f2a8fec6e112a"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
