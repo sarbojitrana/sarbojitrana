@@ -7,7 +7,7 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "00ec00dd502f51cf5f0215257f6e493e72296a7b"
+    "sha": "78f5085a682c9dff429c54c5a17e401ebb3e39bd"
   },
   "brave/brave-browser": {
     "additions": 0,
@@ -22,7 +22,7 @@
   "firstcontributions/first-contributions": {
     "additions": 0,
     "deletions": 0,
-    "sha": "b61289c36f1a88bd9b1258b213f62d22c47de265"
+    "sha": "f7202c24f3124b40a359a64b7d0f58f01d5623e8"
   },
   "google-gemini/gemini-cli": {
     "additions": 0,
@@ -32,7 +32,7 @@
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "fded1f73dbec92b17efc4d1bf97a1eadd8bf94ee"
+    "sha": "7b6ec1713337c9c50c845ec0276c903678ae0e1d"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
@@ -162,7 +162,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "096f409e3d3605b0bd0d1b4a9a7cb84c1c37991b"
+    "sha": "42e6beed813eaa409341d57cff049fcdaeae9232"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
