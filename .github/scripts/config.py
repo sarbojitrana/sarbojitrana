@@ -18,7 +18,7 @@ FIELDS = [
     ("Languages.Real", "English, Hindi"),
     (None, None),
     ("Building",   "Backend systems, Competitive Programming"),
-    ("Currently Building",  "GitMetrics CLI, Nexus"),
+    ("Currently Building",  "GitMetrics CLI, ClipLash"),
     ("Daily Driver", "Linux, breaking it on purpose"),
     ("Hobbies.Games", "Titanfall 2, COD MW(OG), Black Ops, TLOU"),
     ("Hobbies.Shows", "Impractical Jokers, on loop"),
