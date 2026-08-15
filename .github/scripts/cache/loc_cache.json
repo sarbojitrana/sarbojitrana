@@ -7,12 +7,12 @@
   "KanishJebaMathewM/Truxify": {
     "additions": 0,
     "deletions": 0,
-    "sha": "ac8c5cb5c68391216fe365b9fa10a7679191266d"
+    "sha": "f0e656ba3c432a3bd369c979c21139a767583ec8"
   },
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "dec4426c4a0bf259da423a25becf94bd3a4245ac"
+    "sha": "c4afc2b4934a5f68db17ed8396e6dfb182309ff1"
   },
   "brave/brave-browser": {
     "additions": 0,
@@ -27,7 +27,7 @@
   "firstcontributions/first-contributions": {
     "additions": 0,
     "deletions": 0,
-    "sha": "bcb0674e801d659fb101307c54786d168ad33c3a"
+    "sha": "f122aa33d913ddf4d747ec7164c904ada6be6804"
   },
   "google-gemini/gemini-cli": {
     "additions": 0,
@@ -47,7 +47,7 @@
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "9247a443ae42a13581d53c188c36a11fba835b47"
+    "sha": "4fd19dc40d1ace6da1fc94890373dd617907233f"
   },
   "infiniflow/ragflow": {
     "additions": 4121,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "338dc6c74daafdb08b6699001a18dd83097064ed"
+    "sha": "2945359dccf45ca8fb19892d3d699be93a170de0"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -72,7 +72,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "d6d7295e6721a6d97bd474569820f6ea10e983dd"
+    "sha": "358a3b5278505921abc67ca074ca0476261cf27f"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -172,7 +172,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "a3dd401244c5a78009792b23250a85f0fed94a01"
+    "sha": "8d5ba4b18f77af09cf321a68b1543350b8308626"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
