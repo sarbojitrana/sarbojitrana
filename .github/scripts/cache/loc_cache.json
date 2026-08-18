@@ -5,19 +5,19 @@
     "sha": "328f4b4939fb35f38c2f7c7ce3b8638a839bafa5"
   },
   "KanishJebaMathewM/Truxify": {
-    "additions": 0,
+    "additions": 187,
     "deletions": 0,
-    "sha": "06be8f25c4a9092d6d348ffe11f32f0853d1698f"
+    "sha": "61025f695ec45c8a641dd2fa09f580e4a6841c29"
   },
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "e117380310878726bff60671d7de09e1cd0be135"
+    "sha": "658be9768d0d25318dbfe57fb9b5c5e4ed61f227"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "0fa3d8ac3db11e000a884d3b47cc1fe3042528b2"
+    "sha": "04f2dabb5497a1ad75cabaa86e176b60eb85a7f0"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
@@ -37,7 +37,7 @@
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "31e4055a106bf0d941337f2e55993f9f57d16552"
+    "sha": "3961bc1337e168549881553579d84c2c01f7ace1"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
@@ -47,12 +47,12 @@
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "8a8556b9640c432a7d547bd9fc4ea0a816955874"
+    "sha": "dae66f1ef5f3442e4deb1d8ce2287fc04d8ca3ff"
   },
   "infiniflow/ragflow": {
     "additions": 4121,
     "deletions": 775,
-    "sha": "68f8260821c5c41a612666a90afc899e422c02ef"
+    "sha": "b3d9e02d0366a8d36ebc5b6d9a49ad1cb5c65f08"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "6d78e8d55189626ac765d4504dfca61d430b8490"
+    "sha": "eb3966e30bf4e13a0fdef43bb87429c54a6b7e25"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -85,14 +85,14 @@
     "sha": "5caba0767b30e2926dea9b276c98517ba563a847"
   },
   "sarbojitrana/CodeMetrics_Backend": {
-    "additions": 3636,
-    "deletions": 195,
-    "sha": "a9c952fb3dbaba8217ed3618fdf5ea37d7daf8a7"
+    "additions": 3667,
+    "deletions": 255,
+    "sha": "bc2789e7c07630f039b2f816057c2f70c8d4de92"
   },
   "sarbojitrana/CodeMetrics_Frontend": {
     "additions": 8664,
     "deletions": 633,
-    "sha": "7cd7cb1403806467acd3db2f17562ef4f5a6897e"
+    "sha": "443caef2a7368b30ab29de24a6566c8f0be89d55"
   },
   "sarbojitrana/NanoLink": {
     "additions": 146317,
@@ -119,6 +119,11 @@
     "deletions": 1219,
     "sha": "d2fe01e92d1a0a128efa25e648b921b0139db2b3"
   },
+  "sarbojitrana/arcshot": {
+    "additions": 276,
+    "deletions": 0,
+    "sha": "4831b97b020dc9c8cb9d297a7a8fb0aab0a01d5a"
+  },
   "sarbojitrana/code_debugger": {
     "additions": 153,
     "deletions": 0,
@@ -138,6 +143,11 @@
     "additions": 5392,
     "deletions": 22,
     "sha": "1898d6f9aa211a0d20e27368263a35e4b4d1e3a2"
+  },
+  "sarbojitrana/jarvis-grub-theme": {
+    "additions": 0,
+    "deletions": 0,
+    "sha": "e5e40573d62666a513f9b5a7210800af046967e7"
   },
   "sarbojitrana/json-parser": {
     "additions": 9348,
@@ -160,9 +170,9 @@
     "sha": "680933ef1f9b486eec12efda40207de1a0bccee6"
   },
   "sarbojitrana/portwarden": {
-    "additions": 0,
-    "deletions": 0,
-    "sha": "3659d1e5b8464f57cf0937009352f2567a58c8e9"
+    "additions": 2508,
+    "deletions": 268,
+    "sha": "f50d11a065631edcc5180bd825da84eaf5157cd7"
   },
   "sarbojitrana/resume-copy": {
     "additions": 375,
@@ -172,7 +182,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "eb5267f61c09e5588e77feed1e4a32c95d56f629"
+    "sha": "da7f0b590c1fb3527fe0bca81ec4a5346d3e1a43"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
