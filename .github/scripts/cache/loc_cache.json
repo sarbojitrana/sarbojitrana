@@ -12,17 +12,17 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "658be9768d0d25318dbfe57fb9b5c5e4ed61f227"
+    "sha": "6d7fef84470602e321df57a717120d16e98ac924"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "04f2dabb5497a1ad75cabaa86e176b60eb85a7f0"
+    "sha": "c6df0863e394f68b2a3263abfed116e38dc9dd95"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
     "deletions": 0,
-    "sha": "3562627ed06d9c4650e058f2b47ada21d33334a7"
+    "sha": "bd0aa2dcde02008bb6170341fe2c574fd3ace275"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
@@ -32,12 +32,12 @@
   "google-gemini/gemini-cli": {
     "additions": 0,
     "deletions": 0,
-    "sha": "24cc26ccb15522b55c4f8a63b2f894fb99b8e82a"
+    "sha": "571851b1077a51cef757146ce13f9da887326bec"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "3961bc1337e168549881553579d84c2c01f7ace1"
+    "sha": "37b6e21d996ac3bc7d44883f489d346cf82fcaa5"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
@@ -47,12 +47,12 @@
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "dae66f1ef5f3442e4deb1d8ce2287fc04d8ca3ff"
+    "sha": "3cfd3d26353ad1d92cf7601bc9525f0c6eb20f94"
   },
   "infiniflow/ragflow": {
     "additions": 4121,
     "deletions": 775,
-    "sha": "b3d9e02d0366a8d36ebc5b6d9a49ad1cb5c65f08"
+    "sha": "b6b6c4de97156e60c46de517c75ec057969eae22"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "eb3966e30bf4e13a0fdef43bb87429c54a6b7e25"
+    "sha": "ede2edab4dabc7d5777f02ec3135197a659615ca"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -122,7 +122,7 @@
   "sarbojitrana/arcshot": {
     "additions": 276,
     "deletions": 0,
-    "sha": "4831b97b020dc9c8cb9d297a7a8fb0aab0a01d5a"
+    "sha": "3082b70f4365397ae7f2a24d43d102152d98ad97"
   },
   "sarbojitrana/code_debugger": {
     "additions": 153,
@@ -143,6 +143,11 @@
     "additions": 5392,
     "deletions": 22,
     "sha": "1898d6f9aa211a0d20e27368263a35e4b4d1e3a2"
+  },
+  "sarbojitrana/grub-themes": {
+    "additions": 1362,
+    "deletions": 319,
+    "sha": "0f80234b848f0d2b54c0276c32546f5e8b6ec127"
   },
   "sarbojitrana/jarvis-grub-theme": {
     "additions": 0,
@@ -182,7 +187,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "da7f0b590c1fb3527fe0bca81ec4a5346d3e1a43"
+    "sha": "a9ffa3204b2b4db1ebd3fe30162bf62e37dfb78d"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
