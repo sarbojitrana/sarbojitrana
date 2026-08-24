@@ -17,7 +17,7 @@
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "4d4d35ffe198a2259efc63d41f2991a244b49730"
+    "sha": "b592873b9279cd8e77a0fc7dd98109875e08b7d0"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
@@ -52,7 +52,7 @@
   "infiniflow/ragflow": {
     "additions": 4121,
     "deletions": 775,
-    "sha": "9ea83b7a9d003d948fe4c99c6f35de02115a96e8"
+    "sha": "2db8eb6c91184402e2979b6b52b77063919c7e17"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -187,7 +187,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "038272577b1ce824b2b14b6c5c975f66a0ebc0ef"
+    "sha": "3815dfe85a754d8ed518a1518dab352f9c719e55"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
