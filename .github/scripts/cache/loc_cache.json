@@ -12,17 +12,17 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "e00b34de52083a1940cdf4bb50771b92756bc8d2"
+    "sha": "cec57f2d7ad213e7751c640e6664672183c180c8"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "e30f413e92f2b630a85695a9c5f7b58579d4bcab"
+    "sha": "402b65e4dadceb78df39bf43a2d44a2e024aa7c8"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
     "deletions": 0,
-    "sha": "e4b5cc65c4681ec72ff95e67a6dcd087fd1c4e04"
+    "sha": "1dc844216f91487b1898313f2e4fa545cd281977"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
@@ -37,7 +37,7 @@
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "553f2f7de01bdb50d037ca40911fd166509a890a"
+    "sha": "5cbb23dfdcd2c919134a4747edabc96fb741d55f"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
@@ -50,9 +50,9 @@
     "sha": "a4bacaca32d4ad5961da2fae213e7c287f6424e7"
   },
   "infiniflow/ragflow": {
-    "additions": 4121,
-    "deletions": 775,
-    "sha": "7cb4e30e191578b4756605cf3d2c55d213fd1a31"
+    "additions": 4551,
+    "deletions": 819,
+    "sha": "b380728df6627c83f48b498ee46d0931315296f5"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "2021503fd7b9275147c11337aecdd02fd4883caf"
+    "sha": "e7360779e068f9e3267e7fde578efeef64bb1a9f"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -72,7 +72,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "d32c4d38770745dd9fb6a0279204425e6070e6ad"
+    "sha": "1dab3c5f3d4cf8a3df88e5bcccfd6f3194fbd66f"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -187,7 +187,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "3e79a05d33d0e029c439a4d50b8708ecd52d5169"
+    "sha": "98a824206c8577f030b6258c783048eee126222e"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
