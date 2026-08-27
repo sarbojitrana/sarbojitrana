@@ -12,17 +12,17 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "8745a8a58439f3663b0f30925c3fc189f6881b28"
+    "sha": "2d373c08b2a747afbba4621cff5e81aa9045ab27"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "d7a858c8ffccc709fd8b3b67c392f563b78a4c10"
+    "sha": "8c25668ab774d59c94963251fcaf4d373e71557b"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
     "deletions": 0,
-    "sha": "6223e261f18849b817a8d7ca03fe3678b77048ca"
+    "sha": "14117144b74073cbf48bd4a20f4555446ee0ae4b"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
@@ -32,12 +32,12 @@
   "google-gemini/gemini-cli": {
     "additions": 0,
     "deletions": 0,
-    "sha": "64b5b79a6dd89ea96e65cb761c23aae6c0b33ce4"
+    "sha": "3c311beac2e78336816dd4a123db39743f9fbf85"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "ed5c1e0ce1d0a85ccbcc4c33b9102a9b2eedf4fa"
+    "sha": "fa186d347351f024c42ad2448275738bc493f726"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
@@ -52,7 +52,7 @@
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "043232ebe2bfe5470643e5e55da2961dd23851c0"
+    "sha": "73cdb81bded06b1aa0f0c9c96203490bb338e0e0"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "d5ddd9e726d003b4ced6665ff9b3e35e4ecf5a53"
+    "sha": "c4a2e085ec0bc674d5ff2316a059c48db196a05e"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -117,7 +117,7 @@
   "sarbojitrana/alfred": {
     "additions": 27213,
     "deletions": 1219,
-    "sha": "d2fe01e92d1a0a128efa25e648b921b0139db2b3"
+    "sha": "7d0e821f94e3858e8599368737cb3136bb44206a"
   },
   "sarbojitrana/arcshot": {
     "additions": 276,
@@ -138,6 +138,11 @@
     "additions": 0,
     "deletions": 0,
     "sha": "3b483521f57c4fa5e4d300391b3d470e5764a2b1"
+  },
+  "sarbojitrana/dbms-notes": {
+    "additions": 8818,
+    "deletions": 233,
+    "sha": "8a1846cd42ab017a138adb6041d0bda8aac98218"
   },
   "sarbojitrana/go-boilerplate": {
     "additions": 5392,
@@ -169,6 +174,11 @@
     "deletions": 0,
     "sha": "56c854f3bd7c37f149cc1fb632dd7258d2a32a10"
   },
+  "sarbojitrana/operating-systems-notes": {
+    "additions": 2270,
+    "deletions": 0,
+    "sha": "361e363dbd3f615823366bc76fbe216582fbdceb"
+  },
   "sarbojitrana/pii-redactor": {
     "additions": 1032,
     "deletions": 165,
@@ -187,7 +197,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "f246318e321715144effebae05cd43b2447ce56f"
+    "sha": "673b2b084ba9fd08d44634d1ec251429b03d884e"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
