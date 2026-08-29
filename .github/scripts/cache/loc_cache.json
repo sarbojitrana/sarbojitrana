@@ -32,12 +32,12 @@
   "google-gemini/gemini-cli": {
     "additions": 0,
     "deletions": 0,
-    "sha": "3c311beac2e78336816dd4a123db39743f9fbf85"
+    "sha": "0bd1d439751478771c45d3d0895a6a9760554bf4"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "996c6f3f8adbc5f6e0256e01225e8c2be8e090e9"
+    "sha": "5e3a02f81d2aadf4bf24fe49ed97d872556f5bf9"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "e86491adacd19f856a29227742735d503f358931"
+    "sha": "dbf2899370d6adc64b92c9f57ae06352b6c505e0"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -202,7 +202,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "5186f472f7481167dda88786a2003846723484e8"
+    "sha": "4f55d6f8b5215e3c9b243b53485b0f9e1df5848c"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
