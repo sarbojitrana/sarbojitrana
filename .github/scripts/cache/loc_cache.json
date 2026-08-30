@@ -12,7 +12,7 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "824ec6b69fad06f017e94b8664a5f034a0817c85"
+    "sha": "3feec39dabc860ee227efbcfbc951127c845ac38"
   },
   "brave/brave-browser": {
     "additions": 0,
@@ -72,7 +72,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "b974556f84bd4ff5280b66bce1413fa942d1261e"
+    "sha": "6934a9d01cab6226a64b38642e124368f8ddc653"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -202,7 +202,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "43e25f6c0f206d0dd7527e51eaa2089ad07ac1e4"
+    "sha": "1d0e90d249c8a74c1964a8e9b1daa92bbc930448"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
