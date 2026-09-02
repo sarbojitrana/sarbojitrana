@@ -12,12 +12,12 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "ed02ca372a42f39ad522bd44c67bd6ad98adb9fd"
+    "sha": "e9b5b58282e05cc9a506aeef1706f620c3d25f9b"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "174dda3a73274436b67fd5bf6d0dcfb0338286f0"
+    "sha": "c2dedd2a90e19e0415c29a6e1de3b1e50d347efc"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
@@ -42,17 +42,17 @@
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
     "deletions": 0,
-    "sha": "ef5d1ab10b40e8a2899e40d2dd9be05a9971f5f9"
+    "sha": "0b169135a4e491847f2041901e638279432d8453"
   },
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "ec11d629ede261db1387278f1df707b4d1dad7a1"
+    "sha": "6919b28303c2b4faff41095b879730b703d1a71d"
   },
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "988dfda4c96ba1a66b0d483123c7c6526885d2c0"
+    "sha": "4168b3f9df26f76bd91875b5ca04d6d72f4b8f99"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "a8dd85fe1c53d657c31f94a2179e085e6935f046"
+    "sha": "235bddbae0c4c387c07b918f4bf59d0ebeb6001c"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "3f8bde06a13c56ef39f007b03b340bb500087ee3"
+    "sha": "7ad6833953818e8c59d8ba6e0d9a1c947f491586"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
