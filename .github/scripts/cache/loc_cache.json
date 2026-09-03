@@ -12,17 +12,17 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "e9b5b58282e05cc9a506aeef1706f620c3d25f9b"
+    "sha": "b3a843f5d54b1180564d4549f3d79abfc699c769"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "c2dedd2a90e19e0415c29a6e1de3b1e50d347efc"
+    "sha": "89b03c978dae60c3a8279a61262a75781cec1150"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
     "deletions": 0,
-    "sha": "81f3c5732bb8ea17dc75209eef9e521d571d50b1"
+    "sha": "217d4d420f47fec09e2709a8bbcaf657939d6f4f"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
@@ -32,12 +32,12 @@
   "google-gemini/gemini-cli": {
     "additions": 0,
     "deletions": 0,
-    "sha": "4963a4456a886bb6af7dcfb807ad6e3e46ce46fc"
+    "sha": "55b495d6db1794bf5b7f37a9bc03ebcab5103673"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "a152335c7991588e66a1083f27d43746e39e9c8a"
+    "sha": "6c5822ce08757c5c6312ca5e1d867b01215ff365"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
@@ -47,12 +47,12 @@
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "6919b28303c2b4faff41095b879730b703d1a71d"
+    "sha": "825d89a7d3876c132267ff21034bf888d739b3f0"
   },
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "4168b3f9df26f76bd91875b5ca04d6d72f4b8f99"
+    "sha": "a997a1bd77024180e80626548603aecee9b86ef8"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "235bddbae0c4c387c07b918f4bf59d0ebeb6001c"
+    "sha": "d81b68faa574ddd714d7c43bfa17417068c11639"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -72,7 +72,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "3ad6157f9b66e71738bf39cae939aef7c3fd7ea8"
+    "sha": "8f26230e4554338b8522e891bc4aa3657a164160"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "7ad6833953818e8c59d8ba6e0d9a1c947f491586"
+    "sha": "4841744a2421cff1e98bcf89b87d36f75af2e4f5"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
