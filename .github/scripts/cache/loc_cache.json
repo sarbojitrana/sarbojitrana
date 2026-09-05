@@ -12,7 +12,7 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "4ed30762b408d13df48e24e75e2fb7dbb994239e"
+    "sha": "b80341090103aabd59f449f7a710e06c1e05dd5f"
   },
   "brave/brave-browser": {
     "additions": 0,
@@ -52,7 +52,7 @@
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "f99b9cd44b00f99dc79537ecdad710c5d693c902"
+    "sha": "0c28d59ea1d362d9b6aa7481eed48c7fd9a95f0b"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "4068edb671a63e48b76b316a7bc00a163096824b"
+    "sha": "f0b90f6faa3ea8d20907796c68f71e682289ccdf"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
