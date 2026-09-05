@@ -7,22 +7,22 @@
   "KanishJebaMathewM/Truxify": {
     "additions": 187,
     "deletions": 0,
-    "sha": "117a48160bc4c8297276ff99343164b3c5ccf993"
+    "sha": "018dc90114636ff9c9c96884e9f270b58a22e664"
   },
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "fafb74f205c518a9327dca51a459403ffef5bdf6"
+    "sha": "4ed30762b408d13df48e24e75e2fb7dbb994239e"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "8c707ab3522612ce81b279707504a3e426fa1ee1"
+    "sha": "ca7c15faf553a532ec52b9cdb5090914e522f22a"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
     "deletions": 0,
-    "sha": "8727352368c83ccbdde9c4dea55fe840aa0da050"
+    "sha": "c0b6f3e52ff0ab8d44d290647e256936e88e6b57"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
@@ -32,7 +32,7 @@
   "google-gemini/gemini-cli": {
     "additions": 0,
     "deletions": 0,
-    "sha": "87a9c71d57a4ec56c00f3ff628970fea8291d812"
+    "sha": "85aca163f6c73ac6ce380b5447359146b8adcae4"
   },
   "grafana/grafana": {
     "additions": 0,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "d78e09b9a57ed794c32ac0c2c0067ebacc2037c3"
+    "sha": "b3946ef5e2b85a27d365af2592cf1262de6a665e"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "144a7fa73781203526ed10199f6a9be7b873a321"
+    "sha": "4068edb671a63e48b76b316a7bc00a163096824b"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
