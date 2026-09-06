@@ -12,7 +12,7 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "b80341090103aabd59f449f7a710e06c1e05dd5f"
+    "sha": "7800bfadbe252230ee7a9ad1ab7d23700182b4e3"
   },
   "brave/brave-browser": {
     "additions": 0,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "b3946ef5e2b85a27d365af2592cf1262de6a665e"
+    "sha": "502cf7e3e5379ce054bee24e279ec1779911aa38"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "f0b90f6faa3ea8d20907796c68f71e682289ccdf"
+    "sha": "b4c3961d3b3ccdbfc36d9fb05422f781562a808c"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
