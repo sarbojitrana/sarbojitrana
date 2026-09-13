@@ -7,12 +7,12 @@
   "KanishJebaMathewM/Truxify": {
     "additions": 187,
     "deletions": 0,
-    "sha": "c816d4cbdcf4cb3534439c272d87dfb44fd37ca9"
+    "sha": "828b5c36ab5239ed7023ab375f80708f5eaacb16"
   },
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "2c40a4812db890994ebfad0d75b27584e0d8672e"
+    "sha": "a410fc2ba96529481416dd633d62f0082a4dbfdd"
   },
   "brave/brave-browser": {
     "additions": 0,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "83faa165e33eacbbe7b95737ad4d7c2670ba368c"
+    "sha": "84ea31fcad59dad963097588f0316258cc7caa7d"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "43237ed59189a2d0c9c6294eed7090caf877b8d3"
+    "sha": "09b24ab8b0746834c1795f589653316dc8f93bee"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
