@@ -17,12 +17,12 @@
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "f622d76426a7024bc865f97863507b2d77328cff"
+    "sha": "1a0c65639c8bcbb24bdcf6dc19aa0d51f4b41875"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
     "deletions": 0,
-    "sha": "f961c844047333f834ba628bfebdfb4f41ff236e"
+    "sha": "c38bd1e028cca8b7b326b2d83a84266b5d1fc8f2"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
@@ -32,12 +32,12 @@
   "google-gemini/gemini-cli": {
     "additions": 0,
     "deletions": 0,
-    "sha": "d5b3e3accb26000d273abf16e0f1dd83aa5428a9"
+    "sha": "62364cb2000795537a6895261b37ec668e4cf527"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "432557e3eebf267227cbc3afa3fe6a33ca573b12"
+    "sha": "9dc4059d9f49d1dd9342cf0b9e9fe0ffd9444488"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
@@ -47,12 +47,12 @@
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "513d4fdcc31f0a4039ff80959297bec029455f43"
+    "sha": "bc2062f2dba5a500f242b91c89e7293ec7ba2d23"
   },
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "3a23ba00a53beac5ca1f96fcaaf4c53371903dc9"
+    "sha": "fc451df5d94c2e2d5465fdd040ebd2cdc46e3747"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "2b3f2e2026c40eb86e7c7fbfd4b2626888d453f3"
+    "sha": "971434284737a8a6c9da6a5364dd598c849a29ae"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -72,7 +72,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "b645e069c1e7f907205e6cc0eabea5d2b5beeefc"
+    "sha": "3b28c290153651fc14aef3c1a607d1119faebb35"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "85e26c63221a61c142facdd6804527ff754720ee"
+    "sha": "1afcfb58dcb232740ec9e072f6b978ae2220fee2"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
