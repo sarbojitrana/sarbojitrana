@@ -12,17 +12,17 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "3b60d664f913fd011728c47f3575a3888c751dbb"
+    "sha": "6d762ebe30569b6fc2a3cd66105fe5110c1aa01a"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "9728a0bf3360a2d59213186e493b4aba2c09d09d"
+    "sha": "09981bf84f82058886f0562753149f714d274229"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
     "deletions": 0,
-    "sha": "32ce152654e8a205b54e094e31be932c620dbc52"
+    "sha": "20931cdeb1dc82b165b65e0f6777d79773c61fa1"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
@@ -37,22 +37,22 @@
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "0ee4ec041bbc0b4a0e93b5f507fc8692a926cf6c"
+    "sha": "3868b194065f1486c49ae34f267cca8dddb396ea"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
     "deletions": 0,
-    "sha": "1f45d44426cae41f3553f4664790448523af993b"
+    "sha": "bce5d6e081b0569a953dbe5ccbe71c706328802d"
   },
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "db3cac554313332742ae3904199565137fd43987"
+    "sha": "6187435f0eca72a2aea8860b85894f915ed250e0"
   },
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "52405db5a7d845ce56d87459ecb65cc49986e542"
+    "sha": "d64b84c7095b1edb81987bbf82cdc95b36a28cbf"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "1f33d75c0c2f9d26cd9be109ae66b24c0bc3f28b"
+    "sha": "5427f6b024fd0c79638c7bd552f7e94283ff06a5"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -72,7 +72,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "0861bb6450d6d3658e44dbca9cd2ba478faf3c1d"
+    "sha": "cfb16ee741ef4f12ca940d9a3e5e2331a14d5aa5"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "a8cbbbef2c3502af34a951a0906455f1aff14fdc"
+    "sha": "44d8c02a005436bba7f4fe88109122c0ba28bf1f"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
