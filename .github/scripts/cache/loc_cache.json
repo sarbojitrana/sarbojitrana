@@ -52,7 +52,7 @@
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "d542485a5ec1ba211212d49e09039455c7389a04"
+    "sha": "bc2934b89d1ebc9ee13e366155c2ef48abcc67e0"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -72,7 +72,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "47f4844a5faa469c0493c51b3e4525cf0389663f"
+    "sha": "e3003dd8761c9d66553039ca88c84cd56b46737b"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "d31aa287b74117258d1998badca069769145ec61"
+    "sha": "7918ea5dc1a542e8e4d1a31ceb4b5c5f8ff11869"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
