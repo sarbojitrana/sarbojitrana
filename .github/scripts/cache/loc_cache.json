@@ -22,7 +22,7 @@
   "cloudflare/cloudflare-os": {
     "additions": 0,
     "deletions": 0,
-    "sha": "33a5b70cc45e210b9aada8b5a1d61013528f4e5f"
+    "sha": "54d4685d27fc7a1ba58b4ff1e1842ebf4701d0b7"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
@@ -52,7 +52,7 @@
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "bc2934b89d1ebc9ee13e366155c2ef48abcc67e0"
+    "sha": "b45dfd927f7bad20069558e3563adbbacab0140d"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "7918ea5dc1a542e8e4d1a31ceb4b5c5f8ff11869"
+    "sha": "2308e97ecee86388cf9c79dc0da4073ac6eb32f1"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
