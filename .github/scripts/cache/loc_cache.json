@@ -7,17 +7,17 @@
   "KanishJebaMathewM/Truxify": {
     "additions": 187,
     "deletions": 0,
-    "sha": "11ced98d41326710a8c6b741b6f53d5fb85881da"
+    "sha": "d838edaf4a09e22dcda3ba1b4287d305d1e771b2"
   },
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "15c834bb1b5ca8676660080f4447f70db641dd23"
+    "sha": "e7dc66823f0b87c35d44e81938ba46030dec34a8"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "18d51861eb8c08d3c1700abd19618aaee86d7a73"
+    "sha": "27611da54288a0de2bcc2c16bd25d42791ab0e5e"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
@@ -32,27 +32,27 @@
   "google-gemini/gemini-cli": {
     "additions": 0,
     "deletions": 0,
-    "sha": "d00859d6b142f794827f8a9365961333cebac96d"
+    "sha": "c1740d29301a73a47dc3501c1aecc7eb00c0ee58"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "951a0b83aa6947f7ca9477daa348cdc2401fdc0d"
+    "sha": "9f7fd3c83ed2b7a87a98ed0e1be186651a0b579a"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
     "deletions": 0,
-    "sha": "cf5cc89783076ba415653afc0fc95810d30b17ea"
+    "sha": "204a8230eae4502948d176aa9c81224738511567"
   },
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "b695e4fe3902235d26d88e04ed915a9e085a364e"
+    "sha": "9aa67563fee37d18f44be597bcda9476b427989a"
   },
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "07209543cfc3cb7c14d7b94047bbf6d1010493d8"
+    "sha": "e2401e54947db7eb5e542b6de26755d89886f783"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "4d716b67f91c6153a22689ad58b6b99b5d81507f"
+    "sha": "79e7448565b46c272b18d18af2f9869d1c36423c"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -72,7 +72,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "eaeb098261ae7200c9c7f6bd39e133525559d0f6"
+    "sha": "81afa821423ac23bdcc1eb1b4da72ecbf56f45c5"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "81e5e97b835813a280e89c52bb4b44ab880fac50"
+    "sha": "4bd9e73ee0b52f829a880f9e0fd950efda76d631"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
