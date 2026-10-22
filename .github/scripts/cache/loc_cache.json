@@ -12,12 +12,12 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "e7dc66823f0b87c35d44e81938ba46030dec34a8"
+    "sha": "7ef921e5df638bd4e332de7d6c85e5aeb289b93c"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "27611da54288a0de2bcc2c16bd25d42791ab0e5e"
+    "sha": "43627368c67fdfcf04a6a01b88cb83545210d58e"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
@@ -32,12 +32,12 @@
   "google-gemini/gemini-cli": {
     "additions": 0,
     "deletions": 0,
-    "sha": "c1740d29301a73a47dc3501c1aecc7eb00c0ee58"
+    "sha": "09d81bf116b6f0ef084731dc996aa9d56438bb70"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "9f7fd3c83ed2b7a87a98ed0e1be186651a0b579a"
+    "sha": "e40de7898e1c33ae084f9b6ad77bbb67618834c8"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
@@ -47,7 +47,7 @@
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "9aa67563fee37d18f44be597bcda9476b427989a"
+    "sha": "75c96959871f77434d438aac13bc8614a90799af"
   },
   "infiniflow/ragflow": {
     "additions": 4551,
@@ -62,17 +62,17 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "79e7448565b46c272b18d18af2f9869d1c36423c"
+    "sha": "5a5cbfc306bb943ae8a6a9bb2f5cac85474d7189"
   },
   "obra/superpowers": {
     "additions": 0,
     "deletions": 0,
-    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12"
+    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b"
   },
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "81afa821423ac23bdcc1eb1b4da72ecbf56f45c5"
+    "sha": "0cdcbfd08e246d22d3a2fa5e65d6d09d885fa21e"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "4bd9e73ee0b52f829a880f9e0fd950efda76d631"
+    "sha": "98ae93c99fc8ccc4341a580535baf4f399be6ba2"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
