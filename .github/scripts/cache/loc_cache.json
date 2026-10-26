@@ -12,12 +12,12 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "4c6b226c824a867772b4037034fcebdb73414cee"
+    "sha": "1c52d7446e5687d0abe5c1d4978ab75075ce03b7"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "f91a6cfb3041c8fa0c1dff417dbbfb36bd4f7363"
+    "sha": "ed1edc9663dac017daca26816967d424e450fcfc"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
@@ -52,7 +52,7 @@
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "176e91d7c26c479ffcb2fb305743bb64bdf43250"
+    "sha": "5fa79fa32d4c4e154d71b4bffb74019754c21c23"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "07b2683c77a739578f2e2309da373c6594f5d25d"
+    "sha": "55d3bcf3277cdd4a478567c6a48e654fa602028b"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -72,7 +72,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "5b0b7f9516e2cb359cd45c2c8b3c810b0c860d18"
+    "sha": "b286c11c49ef9d908c15c4198165fdfe5f223fda"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -207,7 +207,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "b3cdddae2e3e0a33f5b8c1d4299c32180f2b2998"
+    "sha": "5a18e375c40325ac0552f8c62405b581b814c10c"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
