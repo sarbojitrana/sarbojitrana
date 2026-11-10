@@ -7,22 +7,22 @@
   "KanishJebaMathewM/Truxify": {
     "additions": 187,
     "deletions": 0,
-    "sha": "ab9ce38ec34f74f6b1aef83dbfc809bb97051184"
+    "sha": "65a3b9f711f91e83bf06843403abda8b1c0422c7"
   },
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "18bef8e5ca497242bd87b6298dfd72cb2a26ce94"
+    "sha": "4975bb3507c936907bde8d98593547fa4f5156be"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "4ac8903810b9235ffe6b37ffa9e8db26891207f9"
+    "sha": "379e85f76d52041f2f79072ad93440470365e935"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
     "deletions": 0,
-    "sha": "61fa50ebde4a49ffd4acefe620ddecdd229cfbd4"
+    "sha": "1541cc07fc47c1beafeb98cd9927bb3f112d523f"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
@@ -32,27 +32,27 @@
   "google-gemini/gemini-cli": {
     "additions": 0,
     "deletions": 0,
-    "sha": "1930f25394c4b6338b64ffdb43083fca41614798"
+    "sha": "5cd651a48239d17da0cb0c4e3c89d109114d5c86"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "ea84b3e22b5e04c875b734d5ac349afcd0cbf683"
+    "sha": "37f4043843ea1827353ff1ebae3b82d9c759b5ca"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
     "deletions": 0,
-    "sha": "9710c628bc15a58f6c0f657d4da1d12f8431e30a"
+    "sha": "64b12111f153416033601178a2d09d3612c08fca"
   },
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "a4adb486b419ad53fb67e4bde4d6ca9c4903c939"
+    "sha": "d558a5c005ddf57b27f2930bbeba1124780e3836"
   },
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "91fbe64dce62e0fc44d1c2d36df6f13669f977e8"
+    "sha": "b65b7ec3ece1a52ae71f1d967b9142fa90fa8383"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "587083dd0dd58c06dadd3fb4136d4ae502b0de64"
+    "sha": "9a6b557455b8894434eb7e842486fde38ac46587"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -72,7 +72,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "b83696ea8099ef3772a5a2bc2c49f2b05340c37a"
+    "sha": "7827987647ca5a7c7bcb9952c896eb835bff82a2"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -212,7 +212,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "4d356142d1d0a068799b9535a6a771e49cbe7b40"
+    "sha": "bef6e93cbc0bb25a3c2bc72e230a096a2bf036cf"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
