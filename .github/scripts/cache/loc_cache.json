@@ -12,12 +12,12 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "df615acbb93c81fe9dbc37b20dd2656f84f54986"
+    "sha": "4cea96d8b01208d3571e1e90f312eadc393f050b"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "31205c0d8bd45a2a37e8ae01464963a657e3fa49"
+    "sha": "a3870706ae78065bac0a9d6c07cb836cedc1aa39"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
@@ -52,7 +52,7 @@
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "f9a53a3779a12b5abb8a254ec9384c2af7fae4b4"
+    "sha": "fee2c96bb84efc6c6dbc9f1d92e15b68d4cb9910"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -72,7 +72,7 @@
   "python/mypy": {
     "additions": 0,
     "deletions": 0,
-    "sha": "283eb21c52894b6c0c318dc50838023ac18cead5"
+    "sha": "4ceccf0ebf5011dc77086f7a04a65632cdb0bfa9"
   },
   "sarbojitrana/Best_Dp_Problems": {
     "additions": 1628,
@@ -212,7 +212,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "45d624bb153b4bf1958b22e0b35abda647dd1d1e"
+    "sha": "49f6b804a9d92b1137f1c000841dcdb17e4a5a05"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
