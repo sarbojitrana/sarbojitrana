@@ -12,17 +12,17 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "8d9c1fcaab5461c48481aa97b5b710ee35e5970a"
+    "sha": "e91e636235743d059e401b77efef4e388392d705"
   },
   "brave/brave-browser": {
     "additions": 0,
     "deletions": 0,
-    "sha": "bbccbb6b046e38ba60a6155f998a45c0b38c3e1f"
+    "sha": "50c3cbb10c390b38efaa2318de9c5d25cc6e529d"
   },
   "cloudflare/cloudflare-os": {
     "additions": 0,
     "deletions": 0,
-    "sha": "ad7f4eec0d8e6ee4612748a6d76c8571540ab1ed"
+    "sha": "303e0d71b31f471651923b3e9805385a9b34997f"
   },
   "firstcontributions/first-contributions": {
     "additions": 0,
@@ -32,12 +32,12 @@
   "google-gemini/gemini-cli": {
     "additions": 0,
     "deletions": 0,
-    "sha": "3aa930d6e71c0ddea2610b20c12cdfab2ab9247d"
+    "sha": "615d6bc8c95f277a16b30918606c0cd50a6e42cd"
   },
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "954f3b89929b0c12cec511ad917228ad243e5013"
+    "sha": "7f7d45f1c3c180730839e1d84dee24dddf9fa329"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
@@ -47,12 +47,12 @@
   "hiero-ledger/solo": {
     "additions": 0,
     "deletions": 0,
-    "sha": "03dc13c74f95d541d6ba94e382608b13ab6ea16f"
+    "sha": "422cdf771e39cc4c418b1b30db303cc859f7bf02"
   },
   "infiniflow/ragflow": {
     "additions": 4551,
     "deletions": 819,
-    "sha": "34e1632b630f807398de1c8cf169360fecbc3bfc"
+    "sha": "e2a3e29cd3e3648db74944be6b3b2a26a316ebfb"
   },
   "keploy/writers-program": {
     "additions": 308,
@@ -62,7 +62,7 @@
   "mattermost/mattermost": {
     "additions": 0,
     "deletions": 0,
-    "sha": "2ecd00c22200b745b59fd113366da99c56e15115"
+    "sha": "c54e21d0f37b7c829b6c27d73cc85ee3e209ad0f"
   },
   "obra/superpowers": {
     "additions": 0,
@@ -212,7 +212,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "b3a7fb258b63a98445f6f72eae67b3daec13cbb0"
+    "sha": "d7f96865054225fde147de16624c8a40bc2f10ee"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
