@@ -2,7 +2,7 @@
   "Jguer/yay": {
     "additions": 99,
     "deletions": 12,
-    "sha": "3a2504683c0d288ae4f8e5c06d284342409805e7"
+    "sha": "aa91bba96906f370c9b5f7addcf5f7c47daaaca4"
   },
   "KanishJebaMathewM/Truxify": {
     "additions": 187,
@@ -12,7 +12,7 @@
   "appwrite/appwrite": {
     "additions": 0,
     "deletions": 0,
-    "sha": "9c90250ec7514cf3d72f239960c5652a35b5b99e"
+    "sha": "502404f9647ee09ca62683ed9f807a6fc1510f61"
   },
   "brave/brave-browser": {
     "additions": 0,
@@ -37,7 +37,7 @@
   "grafana/grafana": {
     "additions": 0,
     "deletions": 0,
-    "sha": "cbc48c7e953cc65848df0ac9443e060acf3b516e"
+    "sha": "560b17a530089c1f5c240906dabe72a734f5b463"
   },
   "hiero-ledger/hiero-sdk-js": {
     "additions": 0,
@@ -212,7 +212,7 @@
   "sarbojitrana/sarbojitrana": {
     "additions": 303,
     "deletions": 156,
-    "sha": "32117941a1e3ee920529cbbe0099941368b75f68"
+    "sha": "9f9e42e46af444241113f5d86be66a7b01ebd669"
   },
   "sarbojitrana/service_setup_scripts": {
     "additions": 198,
